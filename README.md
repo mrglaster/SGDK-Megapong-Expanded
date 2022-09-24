@@ -13,9 +13,9 @@ Expanded version of Megapong game from tutorial by Andrej Preradovic
 
 ## Links:
 
-https://www.ohsat.com/tutorial/megapong/megapong-1/
-https://www.youtube.com/watch?v=CQjPLr95ZVQ
-https://www.ohsat.com/tutorial/megalaga/megalaga-9/
-https://under-prog.ru/sgdk-%d0%b4%d0%be%d0%b1%d0%b0%d0%b2%d0%bb%d1%8f%d0%b5%d0%bc-%d0%bc%d1%83%d0%b7%d1%8b%d0%ba%d1%83/
+1) https://www.ohsat.com/tutorial/megapong/megapong-1/
+2) https://www.youtube.com/watch?v=CQjPLr95ZVQ
+3) https://www.ohsat.com/tutorial/megalaga/megalaga-9/
+4) https://under-prog.ru/sgdk-%d0%b4%d0%be%d0%b1%d0%b0%d0%b2%d0%bb%d1%8f%d0%b5%d0%bc-%d0%bc%d1%83%d0%b7%d1%8b%d0%ba%d1%83/
 
 
