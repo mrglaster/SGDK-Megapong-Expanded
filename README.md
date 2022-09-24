@@ -8,7 +8,11 @@ Expanded version of Megapong game from tutorial by Andrej Preradovic
 3) The game isn't endless: the player wins by scoring 12 points.
 4) Sounds and music were added
 
+
+
 ![alt text](https://github.com/mrglaster/SGDK-Megapong-Expanded/blob/main/screenshot.png?raw=true)
+
+
 
 
 ## Links:
