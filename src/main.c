@@ -16,7 +16,7 @@ const int BOTTOM_EDGE = 224;
 const int player_pos_y = 200;
 const int player_width = 32;
 const int player_height = 8;
-const int win_points = 5;
+const int win_points = 12;
 
 int player_velocityModificator = 1;
 
